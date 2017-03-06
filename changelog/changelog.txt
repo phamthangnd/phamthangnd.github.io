@@ -1,0 +1,125 @@
+Version 1.5.1 - 16.03.2016
+================================================
+Fixed	:	default page layout
+
+Version 1.5.0 - 03.02.2016
+================================================
+Fixed	:	Issue with page header
+
+Version 1.4.9 - 03.24.2016
+================================================
+Fixed	:   Responsive fixes
+
+Version 1.4.8 - 02.24.2016
+================================================
+Fixed	:	Responsive fixes
+
+Version 1.4.7 - 02.18.2016
+================================================
+Added	:	Documentation information
+
+Version 1.4.6 - 11.01.2015
+================================================
+Fixed	:	Issue with dish single page's background
+
+Version 1.4.5 - 17.12.2015
+================================================
+Fixed	:	Issue with burger menu position
+Fixed	:	Mobile menu scrolling
+Added	:	Image link option for Offer Slides
+
+Version 1.4.4 - 09.29.2015
+================================================
+Fixed	:	Minor CSS improvements
+Updated	:	TGM plugin activation 2.5.2
+
+Version 1.4.3 - 09.29.2015
+================================================
+Fixed	: 	Custom icon fixes
+Fixed	:	Some Import XML image links
+Updated	:	Revolution Slider 5.0.9
+
+Version 1.4.2 - 08.19.2015
+================================================
+Fixed	:	Localization fixes
+Added	:	Revolution Slider plugin update
+
+Version 1.4.1 - 07.08.2015
+================================================
+Updated	:	Revolution Slider update
+Added	:	Documentation Update
+
+Version 1.4.0 - 21.07.2015
+================================================
+Added	:	Custom label for gallery all filter
+
+Version 1.3.9 - 15.07.2015
+================================================
+Fixed	:	Footer Contact Form issue
+
+Version 1.3.8 - 19.06.2015
+================================================
+Added	:	Possibility to add a custom icon for
+			Header menu links	
+Added	:	Small Responsive fixes
+
+
+Version 1.3.7 - 18.06.2015
+================================================
+Added	: 	Possibility to add a custom icon for
+			dish shortcode by adding a icon URL 
+			into the custom_icon parrameter
+Added	:	Possibility to add a custom icon for
+			offer_content shortcode by adding a
+			icon URL into the custom_icon 
+			parrameter			
+Added	:	Possibility to add a custom icon for
+			each category in foods & Drinks page
+			by adding the icon URL to the 
+			food&drinks category description
+
+Version 1.3.6 - 09.06.2015
+================================================
+Fixed	:	Theme name fix
+
+Version 1.3.5 - 09.06.2015
+================================================
+Added	:	Added nr parameter for food_and_drinks
+Updated :	Revolution Slider plugin
+Updated :	Framework changes
+
+
+Version 1.3.4 - 23.04.2015
+================================================
+Changed	:	TGM update (security fix)
+
+Version 1.3.3 - 1.04.2015
+================================================
+Fixed	:	Minor Fixes
+
+Version 1.3.2 - 11.02.2015
+================================================
+Updates	:	Framework Update
+
+Version 1.3.1 - 10.02.2015
+================================================
+Fixed	:	Minor Fixes
+Updates	:	Plugin Updates
+
+Version 1.3 - 19.12.2014
+================================================
+Updates	:   Revolution Slider Update
+
+Version 1.2 - Minor Bugfixed: 03.12.2014
+================================================
+Fixed   :   Minor Fixes
+
+
+Version 1.1 - Minor Bugfixed: 02.12.2014
+================================================
+Fixed   :   Minor Fixes
+
+
+Version 1.0.0 - Initial Release: 27.11.2014
+================================================
+-
