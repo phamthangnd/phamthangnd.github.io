@@ -175,6 +175,9 @@ header .header-content .header-content-inner h1 {
 header .header-content .header-content-inner hr {
   margin: 30px auto;
 }
+header .header-content .header-content-inner img {
+  margin: 20px auto;
+}
 header .header-content .header-content-inner p {
   font-weight: 300;
   color: rgba(255, 255, 255, 0.7);
