@@ -175,8 +175,9 @@ header .header-content .header-content-inner h1 {
 header .header-content .header-content-inner hr {
   margin: 30px auto;
 }
-header .header-content .header-content-inner img {
+header .header-content .header-content-inner .img-circle {
   margin: 0 auto;
+  border-radius: 50%;
 }
 header .header-content .header-content-inner p {
   font-weight: 300;
@@ -215,12 +216,7 @@ header .header-content .header-content-inner p {
     margin-right: auto;
   }
 }
-.img-circle {
-    margin: 0 auto;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-}
+
 .section-heading {
   margin: 0 auto;
 }
