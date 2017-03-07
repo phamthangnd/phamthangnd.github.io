@@ -261,8 +261,13 @@ header .header-content .header-content-inner p {
   font-size: 14px;
 }
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-  font-size: 18px;
+  font-size: 22px;
 }
+
+.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-description {
+  font-size: 14px;
+}
+
 .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
@@ -274,7 +279,10 @@ header .header-content .header-content-inner p {
     font-size: 16px;
   }
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-    font-size: 22px;
+    font-size: 24px;
+  }
+  .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-description {
+    font-size: 16px;
   }
 }
 .call-to-action h2 {
